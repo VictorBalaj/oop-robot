@@ -1,0 +1,14 @@
+D:\proj faculta\kilerrobot\Robot\Robot\bin\Debug\net6.0\Robot.exe
+D:\proj faculta\kilerrobot\Robot\Robot\bin\Debug\net6.0\Robot.deps.json
+D:\proj faculta\kilerrobot\Robot\Robot\bin\Debug\net6.0\Robot.runtimeconfig.json
+D:\proj faculta\kilerrobot\Robot\Robot\bin\Debug\net6.0\Robot.dll
+D:\proj faculta\kilerrobot\Robot\Robot\bin\Debug\net6.0\Robot.pdb
+D:\proj faculta\kilerrobot\Robot\Robot\obj\Debug\net6.0\Robot.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj faculta\kilerrobot\Robot\Robot\obj\Debug\net6.0\Robot.AssemblyInfoInputs.cache
+D:\proj faculta\kilerrobot\Robot\Robot\obj\Debug\net6.0\Robot.AssemblyInfo.cs
+D:\proj faculta\kilerrobot\Robot\Robot\obj\Debug\net6.0\Robot.csproj.CoreCompileInputs.cache
+D:\proj faculta\kilerrobot\Robot\Robot\obj\Debug\net6.0\Robot.dll
+D:\proj faculta\kilerrobot\Robot\Robot\obj\Debug\net6.0\refint\Robot.dll
+D:\proj faculta\kilerrobot\Robot\Robot\obj\Debug\net6.0\Robot.pdb
+D:\proj faculta\kilerrobot\Robot\Robot\obj\Debug\net6.0\Robot.genruntimeconfig.cache
+D:\proj faculta\kilerrobot\Robot\Robot\obj\Debug\net6.0\ref\Robot.dll
